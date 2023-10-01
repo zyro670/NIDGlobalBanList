@@ -1,4 +1,8 @@
-[
-    { "enabled": true, "NID": "14968899647731936724", "Name": "Medic", "TID": "800028", "Comment": "lack of decorum and manners towards hosts and fellow raiders."},  
-    { "enabled": true, "NID": "14287169641547843721", "Name": "Medic", "TID": "44206", "Comment": "possible alt. banning just incase."},
-]
+{
+    "Blacklist": [
+        {"Enabled": true, "NIDs": [14968799647731936724,14287169641547843721], "Profiles": ["Medic:800028","Medic:44206","Ghost"], "DiscordIDs": [478861440455933972,925946108272836668,1156660350461149224,1142824870082781224,1156566490812780597], "Comment": "Permanently banned from PA, SHA, and raids. Context: https://discord.com/channels/695809740428673034/1050667958562738197/1156452850612846643"}
+    ],
+    "Whitelist": [
+
+    ]
+}
