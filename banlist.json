@@ -1,5 +1,5 @@
 [
     { "enabled": true, "NIDs": [14968799647731936724,14287169641547843721], "Names": "Medic,Ghost", "DiscordIDs": [478861440455933972,925946108272836668,1156660350461149224,1142824870082781224,1156566490812780597], "Comment": "Permanently banned from PA, SHA, and raids. Context: https://discord.com/channels/695809740428673034/1050667958562738197/1156452850612846643"},
     { "enabled": true, "NIDs": [14369458529249164258], "Names": "Kirin", "DiscordIDs": [543731085477937152], "Comment": "Permabanned from raids and server due to ban evasion."},
-    { "enabled": true, "NIDs": [8210194277750344047], "Names": ["タケノリ:37217"], "DiscordIDs": [012345678765432101], "Comment": "12/5 on ML_Lacius's Shiny Flutter Mane. DiscordID unknown."},
+    { "enabled": true, "NIDs": [8210194277750344047], "Names": ["タケノリ:37217"], "DiscordIDs": [00000000], "Comment": "12/5 on ML_Lacius's Shiny Flutter Mane. DiscordID unknown."},
 ]
